@@ -22,3 +22,9 @@ Um projeto Full Stack desenvolvido em Java para facilitar o compartilhamento de 
 
 ---
 Desenvolvido por Paulo Henrique dos Anjos
+
+
+
+
+
+<img width="1070" height="1227" alt="image" src="https://github.com/user-attachments/assets/2d4fb8d1-5087-41ee-9c25-08f88f39a9a3" />
